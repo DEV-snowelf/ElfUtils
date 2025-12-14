@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "farmmod3000",
+  "version": "${version}",
+  "name": "farmmod3000",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "elf.calc.farmmod3000.client.FarmMod3000Client"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
