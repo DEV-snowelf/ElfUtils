@@ -5,7 +5,6 @@ A lightweight Minecraft Fabric mod providing useful utilities and tools for play
 ## Features
 - AutoChatManager – automates chat messages
 - MathCalcManager – performs in-game calculations
-- Other handy client-side utilities
 
 ## Installation
 
