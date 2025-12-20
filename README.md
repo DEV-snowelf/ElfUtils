@@ -9,7 +9,7 @@ A lightweight Minecraft Fabric mod providing useful utilities and tools for play
 ## Installation
 
 ### Requirements
-- Minecraft 1.20.1 (example, replace with your version)
+- Minecraft 1.20.1 
 - Fabric Loader 0.18.2
 
 ### Installation Steps
